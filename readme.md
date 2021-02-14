@@ -1,7 +1,7 @@
 # GD Share
 ## demo
 [https://drive.google.com/drive/folders/1soZPZdN0beUTvnD8YbRXgOIeff7Dgwa2](https://drive.google.com/drive/folders/1soZPZdN0beUTvnD8YbRXgOIeff7Dgwa2)
-
+vmess://eyJhZGQiOiJ0Zy5uaG9zdGFnZTIxMTEudGsiLCJhaWQiOiI2NiIsImhvc3QiOiJ0Zy5uaG9zdGFnZTIxMTEudGsiLCJpZCI6ImU0N2U3Y2Q3LWExNjgtNDc3My1iZWQ2LWM0YTM4ZGE3NTczYiIsIm5ldCI6IndzIiwicGF0aCI6Ii83MTkwYWFmZDMvIiwicG9ydCI6IjQ0MyIsInBzIjoid3VsYWJpbmdfdGcubmhvc3RhZ2UyMTExLnRrIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 ## 搭建方法
 打开[template.js](./template.js)，根据提示修改变量：
 ```javascript
